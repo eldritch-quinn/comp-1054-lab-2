@@ -1,5 +1,9 @@
 /* Base styles for Lab 7
 -------------------------------------------------- */
+h2 {
+	overflow: hidden;
+}
+
 body {
 	background-color: rgb(240,240,240);
 }
